@@ -1,4 +1,4 @@
-# `create-edu-dapp` Nextjs Implementation | Frontend
+# `edu-start` Nextjs Implementation | Frontend
 
 ## Setup
 First, navigate to the Nextjs folder which is `frontend` inside the project directory and install the dependencies:
