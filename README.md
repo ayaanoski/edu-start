@@ -1,36 +1,15 @@
-# `create-edu-dapp` Hardhat Implementation | Backend
-
-This project demonstrates a basic Hardhat implementation. It comes with a sample contract, a test for that contract, and a script that deploys and verify that contract on the Open Campus L3 chain.
+# `create-edu-dapp` Nextjs Implementation | Frontend
 
 ## Setup
-First, navigate to the Hardhat folder which is `backend` inside the project directory and install the dependencies:
+First, navigate to the Nextjs folder which is `frontend` inside the project directory and install the dependencies:
 
 ```shell
 # Navigate to the folder
-cd backend
+cd frontend
 
 # Install dependencies
 npm install
-```
 
-## Try running some of the following commands:
-
-```shell
-# For compiling the smart contracts
-npx hardhat compile
-
-# For testing the smart contracts
-npx hardhat test
-
-# For deloying the smart contracts
-npx hardhat run scripts/deploy.js --network opencampus
-
-# For verifying the smart contracts
-npx hardhat verify --network opencampus <deployed-contract-address>
-
-# Display help information for Hardhat
-npx hardhat help
-
-# Start a local Ethereum node
-npx hardhat node
+# Start the development server.
+npm run dev
 ```
