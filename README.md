@@ -13,3 +13,4 @@ npm install
 # Start the development server.
 npm run dev
 ```
+![vlcsnap-2024-08-14-17h03m55s070](https://github.com/user-attachments/assets/1ad9db43-a01c-4f76-80a2-afe070cbaf39)
