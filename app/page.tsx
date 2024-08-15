@@ -144,7 +144,7 @@ const App: React.FC = () => {
         <Card className="w-full max-w-2xl p-8 shadow-lg">
           <CardHeader>
             <CardTitle className="text-center text-4xl font-bold mt-4">
-              📚 create-edu-dapp template 📚
+              EDU-START
             </CardTitle>
           </CardHeader>
           <CardContent className="flex flex-col items-center mt-4 space-y-6">
